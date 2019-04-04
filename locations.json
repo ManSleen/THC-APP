@@ -1,0 +1,222 @@
+
+{
+  "Colorado Harvest Company - Denver": {
+    "name": "Colorado Harvest Company - Denver",
+    "address": "1568 S Broadway, Denver, CO 80210",
+    "phone": "(303) 722-1227",
+    "lat": 39.6881908,
+    "lng": -104.9872636
+  },
+  "Colorado Harvest Company - Aurora": {
+    "name": "Colorado Harvest Company - Aurora",
+    "address": "11002 E Yale Ave, Aurora, CO 80014",
+    "phone": "(720) 535-9489",
+    "lat": 39.6671746,
+    "lng": -104.8598277
+  },
+  "Durango Organics": {
+    "name": "Durango Organics",
+    "address": "72 Suttle St F, Durango, CO 81303",
+    "phone": "(970) 259-3674",
+    "lat": 37.2475648,
+    "lng": -107.8764828
+  },
+  "Durango Organics - Cortez": {
+    "name": "Durango Organics - Cortez",
+    "address": "1104 E Main St, Cortez, CO 81321",
+    "phone": "(970) 565-6500",
+    "lat": 37.3491863,
+    "lng": -108.5714319
+  },
+  "Good Chemistry - Denver": {
+    "name": "Good Chemistry - Denver",
+    "address": "330 E Colfax Ave, Denver, CO 80203",
+    "phone": "(720) 524-4657",
+    "lat": 39.739913,
+    "lng": -104.982633
+  },
+  "Good Chemistry - Aurora": {
+    "name": "Good Chemistry - Aurora",
+    "address": "16840 E Iliff Ave, Aurora, CO 80013",
+    "phone": "(303) 745-2420",
+    "lat": 39.672629,
+    "lng": -104.792115
+  },
+  "Silver Stem Fine Cannabis": {
+    "name": "Silver Stem Fine Cannabis",
+    "address": "535 Zerex St #203, Fraser, CO 80442",
+    "phone": "(970) 726-2055",
+    "lat": 39.9424244,
+    "lng": -105.8117174
+  },
+  "Green Tree Medicinals of Northglenn": {
+    "name": "Green Tree Medicinals of Northglenn",
+    "address": "10575 Melody Dr #102, Northglenn, CO 80234",
+    "phone": "(720) 596-4148",
+    "lat": 39.8881121,
+    "lng": -104.9940619
+  },
+  "Green Tree Medicinals of Boulder": {
+    "name": "Green Tree Medicinals of Boulder",
+    "address": "5565 Arapahoe Ave, Boulder, CO 80303",
+    "phone": "(303) 440-6700",
+    "lat": 40.01545670000001,
+    "lng": -105.2236403
+  },
+  "Green Tree Medicinals of Longmont": {
+    "name": "Green Tree Medicinals of Longmont",
+    "address": "12626 N 107th St, Longmont, CO 80504",
+    "phone": "(303) 772-3034",
+    "lat": 40.2036366,
+    "lng": -105.1021192
+  },
+  "Medicine Man - Denver": {
+    "name": "Medicine Man - Denver",
+    "address": "4750 Nome St, Denver, CO 80239",
+    "phone": "(303) 373-0752",
+    "lat": 39.7835382,
+    "lng": -104.8519377
+  },
+  "Medicine Man - Aurora": {
+    "name": "Medicine Man - Aurora",
+    "address": "1901 S Havana St, Aurora, CO 80014",
+    "phone": "(303) 923-3825",
+    "lat": 39.6817482,
+    "lng": -104.8664637
+  },
+  "Silver Peak Apothecary": {
+    "name": "Silver Peak Apothecary",
+    "address": "520 E Cooper Ave, Aspen, CO 81611",
+    "phone": "(970) 925-4372",
+    "lat": 39.1881264,
+    "lng": -106.8181104
+  },
+  "Flower Power Botanicals": {
+    "name": "Flower Power Botanicals",
+    "address": "1308 Duff Dr, Fort Collins, CO 80524",
+    "phone": "(970) 672-8165",
+    "lat": 40.5903095,
+    "lng": -105.0514948
+  },
+  "Terrapin Care Station - Mississippi Ave": {
+    "name": "Terrapin Care Station - Mississippi Ave",
+    "address": "11091 E Mississippi Ave b, Aurora, CO 80012",
+    "phone": "(303) 954-8402 ext. 3",
+    "lat": 39.697085,
+    "lng": -104.859539
+  },
+  "Terrapin Care Station - 33rd Ave": {
+    "name": "Terrapin Care Station - 33rd Ave",
+    "address": "11900 E 33rd Ave #100, Aurora, CO 80010",
+    "phone": "(303) 954-8402 ext. 4",
+    "lat": 39.7632155,
+    "lng": -104.8495663
+  },
+  "Terrapin Care Station - Folsom St": {
+    "name": "Terrapin Care Station - Folsom St",
+    "address": "1795 Folsom St, Boulder, CO 80302",
+    "phone": "(303) 954-8402 ext. 2",
+    "lat": 40.0170815,
+    "lng": -105.2633441
+  },
+  "Terrapin Care Station - Broadway": {
+    "name": "Terrapin Care Station - Broadway",
+    "address": "1 Broadway, Denver, CO 80203",
+    "phone": "(303) 954-8402 ext. 5",
+    "lat": 39.7169422,
+    "lng": -104.9880121
+  },
+  "Rocky Road Aurora": {
+    "name": "Rocky Road Aurora",
+    "address": "1712 S Chambers Rd, Aurora, CO 80017",
+    "phone": "(720) 277-0320",
+    "lat": 39.684916,
+    "lng": -104.8096887
+  },
+  "Choice Organics": {
+    "name": "Choice Organics",
+    "address": "813 Smithfield Dr, Fort Collins, CO 80524",
+    "phone": "(970) 472-6337",
+    "lat": 40.5779872,
+    "lng": -105.0036022
+  },
+  "Northern Lights Cannabis Co.": {
+    "name": "Northern Lights Cannabis Co.",
+    "address": "183 W Alameda Ave, Denver, CO 80223",
+    "phone": "(303) 736-6999",
+    "lat": 39.7114526,
+    "lng": -104.9919286
+  },
+  "San Juan Strains": {
+    "name": "San Juan Strains",
+    "address": "356 E Pagosa St b, Pagosa Springs, CO 81147",
+    "phone": "(970) 264-5323",
+    "lat": 37.2700547,
+    "lng": -106.9981695
+  },
+  "Sante": {
+    "name": "Sante",
+    "address": "742 ½ Main Avenue, Durango, CO 81301",
+    "phone": "(970) 375-2837",
+    "lat": 37.2717865,
+    "lng": -107.88091
+  },
+  "Smokey's 420 House": {
+    "name": "Smokey's 420 House",
+    "address": "5740 S College Ave C, Fort Collins, CO 80525",
+    "phone": "(970) 797-2155",
+    "lat": 40.5068491,
+    "lng": -105.0767936
+  },
+  "Smokey's 420 Shop - Garden City": {
+    "name": "Smokey's 420 Shop - Garden City",
+    "address": "2515 7th Ave, Garden City, CO 80631",
+    "phone": "(970) 515-5839",
+    "lat": 40.3968144,
+    "lng": -104.6902367
+  },
+  "Altitude Organics": {
+    "name": "Altitude Organics",
+    "address": "817 Little Beaver Trail, Dillion, CO 80435",
+    "phone": "(970) 485-6147",
+    "lat": 39.6300478,
+    "lng": -106.060941
+  },
+  "The Bud Hut": {
+    "name": "The Bud Hut",
+    "address": "973 US-85, Walsenburg, CO 81089",
+    "phone": "(719) 738-2837",
+    "lat": 37.64714379999999,
+    "lng": -104.7909525
+  },
+  "Mile High Green Cross": {
+    "name": "Mile High Green Cross",
+    "address": "852 Broadway #606, Denver, CO 80203",
+    "phone": "(303) 861-4252",
+    "lat": 39.7300748,
+    "lng": -104.9870286
+  },
+  "Blue Heron Dispensary": {
+    "name": "Blue Heron Dispensary",
+    "address": "100 W Main St a, Oak Creek, CO 80467",
+    "phone": "(970) 736-2268",
+    "lat": 40.276212,
+    "lng": -106.958796
+  },
+  "Village Green Society": {
+    "name": "Village Green Society",
+    "address": "2043 16th St, Boulder, CO 80302",
+    "phone": "(720) 389-5726",
+    "lat": 40.0197876,
+    "lng": -105.2753348
+  },
+  "Fiddler's Green Cannabis Dispensary": {
+    "name": "Fiddler's Green Cannabis Dispensary",
+    "address": "402 Palomino Trail, Ridgway, CO 81432",
+    "phone": "(970) 626-4029",
+    "lat": 38.1499562,
+    "lng": -107.7450463
+  }
+}
+THC Locations - Sheet1.json
+Displaying THC Locations - Sheet1.json.

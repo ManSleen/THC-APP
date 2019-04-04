@@ -1,0 +1,1463 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Durango Organics",
+        "phone": "(970) 259-3674",
+        "url": "Durango-Organics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8764828,
+          37.2475648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 8:30pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Durango Organics - Cortez",
+        "phone": "(970) 565-6500",
+        "url": "Durango-Organics-Cortez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5714319,
+          37.3491863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Good Chemistry - Denver",
+        "phone": "(720) 524-4657",
+        "url": "Good-Chemistry-Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.982633,
+          39.739913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Good Chemistry - Aurora",
+        "phone": "(303) 745-2420",
+        "url": "Good-Chemistry-Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.792115,
+          39.672629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 8:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Silver Stem Fine Cannabis",
+        "phone": "(970) 726-2055",
+        "url": "Silver-Stem-Fine-Cannabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8117174,
+          39.9424244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Medicine Man - Denver",
+        "phone": "(303) 373-0752",
+        "url": "Medicine Man-Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8519377,
+          39.7835382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Medicine Man - Aurora",
+        "phone": "(303) 923-3825",
+        "url": "Medicine Man-Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8664637,
+          39.6817482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Road - Aurora",
+        "phone": "(720) 277-0320",
+        "url": "Rocky-Road-Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8096887,
+          39.684916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Choice Organics",
+        "phone": "(970) 472-6337",
+        "url": "Choice-Organics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0036022,
+          40.5779872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 90pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "San Juan Strains",
+        "phone": "(970) 264-5323",
+        "url": "San-Juan-Strains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9981695,
+          37.2700547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Sante Durango",
+        "phone": "(970) 375-2837",
+        "url": "Sante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.88091,
+          37.2717865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 7:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Smokey's 420 House",
+        "phone": "(970) 797-2155",
+        "url": "Smokeys-420-House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0767936,
+          40.5068491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 7:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Smokey's 420 Shop - Garden City",
+        "phone": "(970) 515-5839",
+        "url": "Smokeys-420-Shop-Garden-City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6902367,
+          40.3968144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Village Green Society",
+        "phone": "(720) 389-5726",
+        "url": "Village-Green-Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2753348,
+          40.0197876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Fiddler's Green Cannabis Dispensary",
+        "phone": "(970) 626-4029",
+        "url": "Fiddlers-Green-Cannabis-Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7450463,
+          38.1499562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Cannabis",
+        "phone": "(970) 626-4009",
+        "url": "Rocky-Mountain-Cannabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.749672,
+          38.152276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Colorado Grow Company",
+        "phone": "(970) 259-1647",
+        "url": "Colorado-Grow-Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.880619,
+          37.274254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Kind Care of Colorado",
+        "phone": "(970) 568-8020",
+        "url": "Kind-Care-of-Colorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.079168,
+          40.494171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 6:45pm",
+        "description": "This location is The Happy Camper!",
+        "name": "The Happy Camper - Bailey",
+        "phone": "(970) 626-4029",
+        "url": "The-Happy-Camper-Bailey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.450719,
+          39.438202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 7:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Acme Healing Center - Durango",
+        "phone": "(970) 247-2190",
+        "url": "Acme-Healing-Center-Durango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.852232,
+          37.324095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Canna Cabinet – Pueblo",
+        "phone": "(719) 564-2925",
+        "url": "Canna-Cabinet–Pueblo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.640951,
+          38.218108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Sticky Icky's",
+        "phone": "(719) 470-2839",
+        "url": "Sticky-Ickys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.682754,
+          38.259094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Green Cross - Silt",
+        "phone": "(970) 876-4079",
+        "url": "Green-Cross-Silt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.657764,
+          39.546525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "The Herbal Alternative",
+        "phone": "(970) 529-7007",
+        "url": "The-Herbal-Alternative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.59229,
+          37.362448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "11am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Organics - Black Hawk",
+        "phone": "(303) 582-3669",
+        "url": "Rocky-Mountain-Organics-Black-Hawk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "11am - 7pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Organics - Central City",
+        "phone": "(303) 582-3991",
+        "url": "Rocky-Mountain-Organics-Central-City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.47,
+          39.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Kind Castle",
+        "phone": "(970) 361-4922",
+        "url": "Kind-Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.05106,
+          39.45393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Karing Kind",
+        "phone": "(303) 449-9333",
+        "url": "Karing-Kind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28107,
+          40.080578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 7pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Golden Nugget",
+        "phone": "(303) 582-2043",
+        "url": "Golden-Nugget"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51278,
+          39.800053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Alpenglow Botanicals - Breckenridge",
+        "phone": "(970) 389-6939",
+        "url": "Alpenglow-Botanicals-Breckenridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.054,
+          39.51352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Alpenglow Botanicals - Dillon",
+        "phone": "(970) 468-0343",
+        "url": "Alpenglow-Botanicals-Dillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.06136,
+          39.62789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "BILLO!",
+        "phone": "(970) 879-4420",
+        "url": "BILLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85732,
+          40.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Buds Ltd.",
+        "phone": "(970) 285-9307",
+        "url": "Buds-Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.05186,
+          39.44959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Durango Organics",
+        "phone": "(970) 626-4029",
+        "url": "Durango-Organics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.87664,
+          37.24793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Golden Leaf",
+        "phone": "(970) 870-2941",
+        "url": "Golden-Leaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85428,
+          40.49708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Golden Meds - Oneida",
+        "phone": "(720) 386-4665",
+        "url": "Golden-Meds-Oneida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.90725,
+          39.69904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Golden Meds - Peoria",
+        "phone": "(303) 307-4645",
+        "url": "Golden-Meds-Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.84613,
+          39.7802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Good Chemistry - Broadway",
+        "phone": "(303) 733-3113",
+        "url": "Good-Chemistry-Broadway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.987152,
+          39.685181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "L'eagle Services",
+        "phone": "(303) 825-0497",
+        "url": "Leagle-Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00673,
+          39.72251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 10pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LIT",
+        "phone": "(303) 455-9333",
+        "url": "LIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0253,
+          39.74321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 8:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Cortez",
+        "phone": "(970) 565-9577",
+        "url": "LivWell-Cortez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.56274,
+          37.34858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "11am - 8:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Franklin",
+        "phone": "(720) 524-8273",
+        "url": "LivWell-Franklin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96845,
+          39.77271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Pearl",
+        "phone": "(303) 952-9150",
+        "url": "LivWell-Pearl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97952,
+          39.74281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Larimer",
+        "phone": "(303) 484-1662",
+        "url": "LivWell-Larimer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98207,
+          39.76138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Evans",
+        "phone": "(720) 361-2981",
+        "url": "LivWell-Evans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01061,
+          39.67898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Stapleton",
+        "phone": "(720) 573-4735",
+        "url": "LivWell-Stapleton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.90799,
+          39.77196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 7:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Garden City",
+        "phone": "(970) 616-6007",
+        "url": "LivWell-Garden-City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.69167,
+          40.39384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Trinidad",
+        "phone": "(719) 422-8251",
+        "url": "LivWell-Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.51025,
+          37.16568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 8:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell Mancos",
+        "phone": "(970) 533-9849",
+        "url": "LivWell-Mancos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.29335,
+          37.34705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 12am",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Medicine Man - Thornton",
+        "phone": "(585) 737-3864",
+        "url": "Medicine-Man-Thornton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99002,
+          39.85625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Pueblo West Organics",
+        "phone": "(719) 647-2043",
+        "url": "Pueblo-West-Organics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.71737,
+          38.32926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Silver Stem Fine Cannabis - Colfax",
+        "phone": "(303) 321-3100",
+        "url": "Silver-Stem-Colfax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.89315,
+          39.740459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Silver Stem Fine Cannabis - Quincy",
+        "phone": "(303) 734-0420",
+        "url": "Silver-Stem-Quincy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.03563,
+          39.63819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 6:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Silver Stem Fine Cannabis - Nederland",
+        "phone": "(303) 258-3552",
+        "url": "Silver-Stem-Nederland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51049,
+          39.96238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Southwest Alternative Care",
+        "phone": "(720) 287-3934",
+        "url": "Southwest-Alternative-Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.03909,
+          39.740674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 7pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Sweet Leaf Pioneer",
+        "phone": "(970) 328-9060",
+        "url": "Sweet-Leaf-Pioneer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83,
+          39.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 8pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Telluride Bud Co - Telluride",
+        "phone": "(970) 239-6039",
+        "url": "Telluride-Bud-Co-Telluride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.81019,
+          37.936227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Telluride Bud Co - Durango",
+        "phone": "(970) 422-8311",
+        "url": "Telluride-Bud-Co-Durango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.86922,
+          37.303589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "The Spot 420 - Pueblo",
+        "phone": "(719) 547-8011",
+        "url": "The-Spot-420-Pueblo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7089,
+          38.331698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "The Spot 420 - Trinidad",
+        "phone": "(719) 846-2700",
+        "url": "The-Spot-420-Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.51,
+          37.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 7:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Walking Raven",
+        "phone": "(720) 420-4444",
+        "url": "Walking-Raven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98795,
+          39.68014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Best Day Ever",
+        "phone": "(970) 429-8637",
+        "url": "Best-Day-Ever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8177,
+          39.1879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 7:45pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Nature's Kiss",
+        "phone": "(303) 484-9327",
+        "url": "Natures-Kiss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98741,
+          39.637861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9:50pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Health Depot - Sticky Buds",
+        "phone": "(303) 282-0200",
+        "url": "Sticky-Buds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98717,
+          39.675467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "10am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Seven One Nine",
+        "phone": "(719) 299-4694",
+        "url": "Seven-One-Nine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64323,
+          38.215404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Road Vail",
+        "phone": "(970) 688-5633",
+        "url": "Rocky-Road-Vail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47813,
+          39.621758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "9am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Provisions",
+        "phone": "(720) 593-3600",
+        "url": "Provisions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.758825,
+          37.617019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Faragosi Farms",
+        "phone": "(719) 846-2310",
+        "url": "Faragosi-Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.50967,
+          37.166161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "1:11",
+        "phone": "(719) 937-7716",
+        "url": "1-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.91002,
+          37.99889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Green Heart",
+        "phone": "720-999-8919",
+        "url": "Green-Heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.766478,
+          39.638595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Herbal Alternatives",
+        "phone": "(303) 600-8967",
+        "url": "Herbal-Alternatives"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8522359,
+          39.7845251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "LivWell on Broadway",
+        "phone": "703-409-0801",
+        "url": "LivWell-Broadway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9874931,
+          39.7087927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Primo Cannabis",
+        "phone": "(719) 937-7813",
+        "url": "Primo-Cannabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.949638,
+          38.249629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Cannabis - Gunnison",
+        "phone": "(970) 641-8782",
+        "url": "Rocky-Mountain-Cannabis-Gunnison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.937999,
+          38.543194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Cannabis - Dinosaur",
+        "phone": "(970) 626-4009",
+        "url": "Rocky-Mountain-Cannabis-Dinosaur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0045652,
+          40.2450779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Rocky Mountain Cannabis - Trinidad",
+        "phone": "(719) 422-8141",
+        "url": "Rocky-Mountain-Cannabis-Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.508779,
+          37.1731666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Sacred Valley",
+        "phone": "(719) 298-2882",
+        "url": "Sacred-Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.024845,
+          37.993774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Solace Meds",
+        "phone": "(970) 225-6337",
+        "url": "Solace-Meds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0743098,
+          40.5064288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Southwest Alternative Care",
+        "phone": "(303) 593-2931",
+        "url": "Southwest-Alternative-Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9945522,
+          39.6969817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "Sticky Buds",
+        "phone": "(303) 282-0200",
+        "url": "Sticky-Buds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.987467,
+          39.67559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "dispensary",
+        "hours": "8am - 9pm",
+        "description": "This location carries Happy Camper concentrates!",
+        "name": "The Spot 420- Pueblo Elizabeth",
+        "phone": "(719) 544-7768",
+        "url": "The-Spot-420-Pueblo-Elizabeth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6155845,
+          38.3070954
+        ]
+      }
+    }
+  ]
+}

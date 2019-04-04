@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#da532c">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#da532c">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Happy Camper Cannabis App</title>
+  <link rel="stylesheet" type="text/css" href="styles/inline.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+  <!-- TODO add manifest here -->
+  
+</head>
+<body>
+
+  <header>
+	  
+	  <div class="site-title">
+		  <a href="index.html"><img src="images/The Happy Camper Cannabis App-logo.png" /></a>
+	  </div>
+	  
+     <div class="header">		 
+		 <div class="specials" id="0" style="display:none;">
+     		<p>Sunday is <b>5% OFF FLOWER</b> @ THC - Bailey</p>
+		 </div>	 
+        <div class="specials" id="1" style="display:none;">
+     		<p>Monday is <b>HEAVY EIGHTH DAY</b> @ THC - Bailey</p>
+		</div>		 
+		<div class="specials" id="2" style="display:none">
+  			<p>Tuesday is <strong>15% OFF EDIBLES</strong> @ THC - Bailey</p>
+		</div>		 
+		<div class="specials" id="3" style="display:none">
+     		<p>Wednesday's <b>HAPPY HOUR</b> is from 9 - 11am</p>
+		</div>		 
+		<div class="specials" id="4" style="display:none">
+     		<p>Thursday's <b>HAPPY HOUR</b> is from 9 - 11am</p>
+		</div>		 
+		<div class="specials" id="5" style="display:none">
+     		<p>Friday is <b>5% OFF ALL TOPICALS</b> @ THC - Bailey</p>
+		</div>		 
+		<div class="specials" id="6" style="display:none">
+     		<p>Saturday is <b>SHATTERDAY</b> @ THC - Bailey</p>
+		</div>		 
+	 </div>
+	
+
+  </header>
+
+  <main class="main">
+	  
+	  <div id="productPage">
+	  <p><b>LivWell Stapleton</b></p>
+	  	</div>
+	  <div id="locationLogo">
+	  <img src="images/LivWell.png" />
+	  </div>
+	  <div id="callUs"><button type="button" class="callUsButton" onclick="location.href='tel:(720) 573-4735';"><img src="images/phone-icon.png" /><p>Click Here To Call Us!</p></button></div>
+	  <div id="address">3955 Oneida St, Denver, CO 80207</div>
+    <div id="pageMap"></div>
+	  
+  </main>
+	<div id="footer">
+	<button type="button" class="callButton" onclick="location.href='tel:(303) 816-0420';"><img src="images/phone-icon.png" /><p>Call THC - <b>Bailey</b></p></button>
+<button type="button" class="callButton" onclick="location.href='tel:(303) 816-0420';"><img src="images/phone-icon.png" /><p>Call THC - <b>Palisade</b></p></button>
+	</div>
+	<!--
+<div id="loading-bg">
+  <div class="loader">
+    <svg viewBox="0 0 32 32" width="32" height="32">
+      <circle id="spinner" cx="16" cy="16" r="14" fill="none"></circle>
+    </svg>
+  </div>
+</div> -->
+
+<script>
+  function showhide() {
+    var d = new Date();
+    var s = document.getElementById(+d.getDay());
+    s.style.display = (s.style.display == 'block') ? 'none' : 'block';
+  }
+  showhide();
+</script>	
+
+<script>
+// Initialize and add the map
+function initMap() {
+  // This creates a point at the coordinates of the dispensary
+  var colorado = {lat: 39.77196, lng: -104.90799};
+  // The map, centered at the dispensary
+  var map = new google.maps.Map(
+      document.getElementById('pageMap'), {zoom: 11, center: colorado});
+  // The marker, positioned at the dispensary location
+	var contentString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">LivWell Stapleton</h1>'+
+      '<div id="bodyContent">'+
+      '<p><a href="http://maps.google.com/?daddr=3955+Oneida+St,+Denver,+CO+80207" target="_blank">Click here for directions</a></p>'+
+      '</div>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+
+	
+  var marker = new google.maps.Marker({position: colorado, map: map});
+	
+	marker.addListener('click', function() {
+    infowindow.open(map, marker);
+  });
+}
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYMfzy4sQQQ7uMTl2ztyltoMVdBWhpnwI&callback=initMap&callback=initMap">
+    </script>
+    
+</body>
+</html>
